@@ -8,6 +8,22 @@
     "url": "https://res.cloudinary.com/drfcbsnmf/image/upload/v1770199590/wallpapers/wallpaper_10.jpg"
   },
   {
+    "id": "wallpaper_100",
+    "url": "https://res.cloudinary.com/drfcbsnmf/image/upload/v1770952883/wallpapers/wallpaper_100.jpg"
+  },
+  {
+    "id": "wallpaper_101",
+    "url": "https://res.cloudinary.com/drfcbsnmf/image/upload/v1770952884/wallpapers/wallpaper_101.jpg"
+  },
+  {
+    "id": "wallpaper_102",
+    "url": "https://res.cloudinary.com/drfcbsnmf/image/upload/v1770952885/wallpapers/wallpaper_102.jpg"
+  },
+  {
+    "id": "wallpaper_104",
+    "url": "https://res.cloudinary.com/drfcbsnmf/image/upload/v1770952886/wallpapers/wallpaper_104.jpg"
+  },
+  {
     "id": "wallpaper_11",
     "url": "https://res.cloudinary.com/drfcbsnmf/image/upload/v1770199591/wallpapers/wallpaper_11.jpg"
   },
@@ -312,7 +328,55 @@
     "url": "https://res.cloudinary.com/drfcbsnmf/image/upload/v1770890982/wallpapers/wallpaper_80.jpg"
   },
   {
+    "id": "wallpaper_81",
+    "url": "https://res.cloudinary.com/drfcbsnmf/image/upload/v1770953016/wallpapers/wallpaper_81.jpg"
+  },
+  {
+    "id": "wallpaper_82",
+    "url": "https://res.cloudinary.com/drfcbsnmf/image/upload/v1770953017/wallpapers/wallpaper_82.jpg"
+  },
+  {
+    "id": "wallpaper_83",
+    "url": "https://res.cloudinary.com/drfcbsnmf/image/upload/v1770953018/wallpapers/wallpaper_83.jpg"
+  },
+  {
+    "id": "wallpaper_84",
+    "url": "https://res.cloudinary.com/drfcbsnmf/image/upload/v1770953019/wallpapers/wallpaper_84.jpg"
+  },
+  {
+    "id": "wallpaper_85",
+    "url": "https://res.cloudinary.com/drfcbsnmf/image/upload/v1770953020/wallpapers/wallpaper_85.jpg"
+  },
+  {
+    "id": "wallpaper_86",
+    "url": "https://res.cloudinary.com/drfcbsnmf/image/upload/v1770953021/wallpapers/wallpaper_86.jpg"
+  },
+  {
+    "id": "wallpaper_87",
+    "url": "https://res.cloudinary.com/drfcbsnmf/image/upload/v1770953022/wallpapers/wallpaper_87.jpg"
+  },
+  {
+    "id": "wallpaper_88",
+    "url": "https://res.cloudinary.com/drfcbsnmf/image/upload/v1770953023/wallpapers/wallpaper_88.jpg"
+  },
+  {
+    "id": "wallpaper_89",
+    "url": "https://res.cloudinary.com/drfcbsnmf/image/upload/v1770953024/wallpapers/wallpaper_89.jpg"
+  },
+  {
     "id": "wallpaper_9",
     "url": "https://res.cloudinary.com/drfcbsnmf/image/upload/v1770199633/wallpapers/wallpaper_9.jpg"
+  },
+  {
+    "id": "wallpaper_96",
+    "url": "https://res.cloudinary.com/drfcbsnmf/image/upload/v1770953026/wallpapers/wallpaper_96.jpg"
+  },
+  {
+    "id": "wallpaper_98",
+    "url": "https://res.cloudinary.com/drfcbsnmf/image/upload/v1770953027/wallpapers/wallpaper_98.jpg"
+  },
+  {
+    "id": "wallpaper_99",
+    "url": "https://res.cloudinary.com/drfcbsnmf/image/upload/v1770953028/wallpapers/wallpaper_99.jpg"
   }
 ]
